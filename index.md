@@ -66,6 +66,6 @@ Syntax highlighted code block
 ```
 Pour plus de détails consultez [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Cette documentation a été rédigée par notre collègue Juanlu qui trvaille maintenant à Grenade en Espagne. 
+Cette documentation a été rédigée par notre collègue Juanlu qui travaille maintenant à Grenade en Espagne. 
 Voici le lien originel de la documentation :  [Juanlu](https://github.com/juanluck/Inroduction-Git/).
 
