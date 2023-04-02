@@ -67,5 +67,5 @@ Syntax highlighted code block
 Pour plus de détails consultez [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Cette documentation a été rédigée par notre collègue Juanlu qui trvaille maintenant à Grenade en Espagne. 
-Voici le lien originel de la documentation : https://.github.io/Introduction-GIT
+Voici le lien originel de la documentation : https://juanluck.github.io/Introduction-GIT
 
